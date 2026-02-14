@@ -14,4 +14,6 @@ A web-based application that allows users to track solved DSA problems topic-wis
 - JavaScript
 
 ## Live Demo
-https://yourusername.github.io/dsa-progress-tracker/
+https://kala-123-gif.github.io/dsa-progress-tracker/
+
+
